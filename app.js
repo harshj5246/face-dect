@@ -10,8 +10,8 @@ const db = knex({
     connection:{
         host: '127.0.0.1',
         user : 'postgres',
-        password: 'harsh@242001',
-        database: 'harsh'
+        password: 'test',
+        database: 'postgres'
 
     } 
 });
